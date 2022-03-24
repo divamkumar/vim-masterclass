@@ -1,0 +1,14 @@
+A few sentences about the start of my day:
+
+I woke up after a refreshing sleep and ate a nice breakfast.
+Then I opened my computer and began continuing to configure my
+setup when I decided to try using Vim for everything since I've
+read that it is a powerful tool for editing text. I was confused
+at first when I started using it, so I signed up for this course
+on Udemy called "Vim Masterclass" taught by James Cannon in order
+to sharpen my skills. So here I am!
+
+3 things that I am grateful for:
+1) Family and friends
+2) Food and good health
+3) Technology and computers
