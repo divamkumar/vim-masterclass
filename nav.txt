@@ -42,6 +42,9 @@ respectively, which will provide row and column number on the right hand side
 when navigating. In addition, typing ":set ruler!" will toggle it on and off
 as well, so executing that command twice in a row will have no effect.
 
+To get to the beginning of a line in Vim type "0". To get to the start of a
+non-whitespace character type "^".
+
 This training is being provided by LinuxTrainingAcademy.com.
 
 The rest of this file is comprised of random sentences.  This will give you a
